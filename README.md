@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
