@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Abinesh008/Leetcode-Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
